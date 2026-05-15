@@ -2,8 +2,7 @@
 
 A centralized configuration node for ComfyUI. Set your sampler parameters once
 and feed them to every KSampler in the workflow. Designed for workflows where you
-switch between model types (standard SDXL, Turbo, Lightning, Distilled, etc.).
-
+switch between model types.
 ## Installation
 
 Copy the `ksampler_config_node` folder into:
